@@ -279,7 +279,8 @@ namespace GameLauncher
 </Project>
 ```
 ### Captura de Tela:
-![image](https://github.com/user-attachments/assets/6dd74af2-9f9a-4131-b67d-724eb4fe063c)
+![image](https://github.com/user-attachments/assets/dced6cb2-db01-4efa-bde8-a4466221b122)
+
 
 ---
 
